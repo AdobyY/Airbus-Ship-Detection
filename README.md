@@ -18,6 +18,7 @@ The project includes a Jupyter Notebook (`airbus-ship-detection.ipynb`) that pro
 ## Prerequisites
 
 - Python 3.10
+- Tensorflow 2.12
 - Other required packages listed in `requirements.txt`
 
 ## Installation
